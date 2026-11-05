@@ -1,0 +1,19 @@
+{
+  "n_flows": 5300,
+  "n_features": 45,
+  "n_train": 3710,
+  "n_test": 1590,
+  "best_model": "HistGradientBoosting",
+  "best_test_metrics": {
+    "accuracy": 0.9924528301886792,
+    "precision_macro": 0.9929029881876726,
+    "recall_macro": 0.9929012345679012,
+    "f1_macro": 0.9928532858717077,
+    "f1_weighted": 0.9924466092185861,
+    "cv_f1_macro_mean": 0.9884794274440705,
+    "cv_f1_macro_std": 0.0038449127869707674,
+    "train_time_s": 2.859239910999804,
+    "predict_us_per_flow": 44.058967295651264
+  },
+  "runtime_s": 170.0
+}
