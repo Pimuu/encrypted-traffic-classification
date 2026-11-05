@@ -1,0 +1,7 @@
+true,video,web,chat,file_transfer,voip,gaming
+video,259,6,0,5,0,0
+web,10,407,0,2,0,1
+chat,0,1,269,0,0,0
+file_transfer,2,2,0,206,0,0
+voip,0,0,0,0,208,2
+gaming,0,7,0,0,0,203
